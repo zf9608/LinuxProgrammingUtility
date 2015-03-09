@@ -7,6 +7,10 @@ git push -u origin master
 
 git add .
 git commit -m "first commit"
+
+(git checkout master)
+(git merge now)
+
 git push -u origin master
 ==========
 
